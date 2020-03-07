@@ -3,7 +3,7 @@
 
 ##################################################################################################
 
-		Implementation of Image Denoise and classification using MNIST dataset	
+			Implementation of Image Denoise and classification using MNIST dataset	
 
 
 ###################################################################################################
@@ -22,4 +22,4 @@ autoenc.h5 = autoencoder weights to denoise
 
 model_new.h5 = final model weights to denoise and classify
 
-####################################################################################################
+###################################################################################################
